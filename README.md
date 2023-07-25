@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Electrical Engineering challenges!
 - 🤔 I’m looking for help with optimization ML problems
 - 💬 Ask me about automation, optimization, VLSI, electronics devices and circuits
-- 📫 How to reach me: [Email](jeetsumanto123@gmail.com), [LinkedIn](https://www.linkedin.com/in/sumanto-kar-0424391a9)
+- 📫 How to reach me: [Email](jeetsumanto123@gmail.com), ![LinkedIn](https://www.linkedin.com/in/sumanto-kar-0424391a9)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am a great entertainer!
 
